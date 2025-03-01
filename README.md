@@ -64,6 +64,19 @@ Para la fecha de entrega, se debe presentar:
     * ☁️ Despliegue de la aplicación en un servidor accesible públicamente.
     * Integración con múltiples sitios web de empleo para obtener más datos.
 
+### Evaluación
+
+Mirar los indicadores de las competencias:
+
+* Gestionar eficientemente proyectos de desarrollo con herramientas de control de versiones
+* Ser capaz de desarrollar un programa en Python
+* Diseñar y gestionar bases de datos de manera eficiente
+* Implementar tests para garantizar la calidad del software
+* Implementar un sistema de webscrapping para la recopilación de datos
+* Desplegar y gestionar aplicaciones en entornos de nube
+
+En: https://roadmap-mad-ai-p4.coderf5.es/
+
 ###  Actividad Sugerida
 
 * **Objetivo:**
