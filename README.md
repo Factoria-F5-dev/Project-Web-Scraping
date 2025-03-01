@@ -44,7 +44,7 @@ Para la fecha de entrega, se debe presentar:
 * Herramientas de visualización (Pandas, Matplotlib, Power BI, Tableau).
 * Gestión del proyecto (Trello, Jira).
 
-###  Niveles de Entrega
+###  🏆 Niveles de Entrega
 
 * 🟢 **Nivel Esencial:**
     * ✅ Un script que accede a la web y extrae información básica de las ofertas de empleo.
