@@ -54,11 +54,11 @@ Para la fecha de entrega, se debe presentar:
     * Almacenamiento de datos en una base de datos estructurada.
     * Sistema de logs para trazabilidad del scraper.
     * Implementación de tests unitarios para validar el correcto funcionamiento.
-* **Nivel Avanzado:**
+* 🟠 **Nivel Avanzado:**
     * Aplicación de Programación Orientada a Objetos (OOP) para estructurar mejor el código.
     * ⚠️ Manejo robusto de errores para evitar bloqueos y baneo de IP.
     * Automatización del scraper para actualización periódica de la base de datos.
-* **Nivel Experto:**
+* 🔴 **Nivel Experto:**
     * Dockerización del proyecto.
     * Implementación de un frontend básico para visualizar los datos extraídos.
     * ☁️ Despliegue de la aplicación en un servidor accesible públicamente.
