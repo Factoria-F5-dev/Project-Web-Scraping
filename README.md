@@ -1,4 +1,6 @@
-# 🚀 Proyecto Web Scraping  
+# 🚀 Proyecto Web Scraping
+
+![Banner Proyectos](https://github.com/user-attachments/assets/15d49b8b-1e44-465c-91d0-fdfca92cf227)
 
 ## 📜 Briefing: Proyecto de Web Scraping  
 
