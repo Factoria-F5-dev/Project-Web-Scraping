@@ -1,98 +1,109 @@
-# 🚀 Proyecto Web Scraping de Ofertas de Empleo en el Sector Tecnológico
+# 🚀 Proyecto Web Scraping  
 
-##  📜 Briefing: Proyecto de Web Scraping
+## 📜 Briefing: Proyecto de Web Scraping  
 
-###  🔍Planteamiento
+### 🔍 Planteamiento  
 
-La empresa XYZ Corp está interesada en analizar el mercado laboral del sector tecnológico para identificar tendencias y oportunidades. El objetivo de este proyecto es desarrollar un programa en Python que realice web scraping para extraer ofertas de empleo en tecnología desde sitios especializados como LinkedIn, Indeed, Glassdoor, entre otros.
+La empresa **XYZ Corp** está interesada en analizar el mercado laboral del sector tecnológico para identificar tendencias y oportunidades. Para ello, plantea un reto a las personas del equipo para que presenten un **Scraper** funcional sobre cualquier página / temática, validando qué información se puede extraer y hasta dónde se puede llegar en el proceso.
 
-El scraper debe recuperar información clave como:
+Además, se requiere almacenar esta información en una base de datos para su posterior análisis y visualización.  
 
-* Empresa contratante
-* Título del puesto
-* Ubicación
-* Modalidad de trabajo (Remoto/Presencial/Híbrido)
-* Fecha de publicación
-* Tecnologías y requisitos
-* Enlace a la oferta
+---
 
-Además, se requiere almacenar esta información en una base de datos para su posterior análisis.
+## 🎯 Objetivos del Proyecto  
 
-###  Objetivos del Proyecto
+* **Acceder a sitios web y extraer datos.**  
+* **Obtener información estructurada.**  
+* **Normalizar y estructurar los datos extraídos para su posterior análisis.**  
+* **Almacenar la información en una base de datos SQL o NoSQL.**  
+* **Generar informes y visualizaciones de los datos recopilados.**  
 
-* **Acceder a sitios web con ofertas de empleo:** Extraer datos de plataformas de empleo reconocidas.
-* **Extraer información relevante:** Utilizar técnicas de web scraping para obtener datos estructurados de las ofertas.
-* **Formatear y limpiar los datos:** Asegurar la coherencia y estructura adecuada de la información extraída.
-* ️ **Almacenar los datos en una base de datos:** Utilizar SQL o NoSQL para almacenar la información y facilitar su análisis.
-* **Generar informes y visualizaciones:** Facilitar la interpretación de los datos mediante gráficos y dashboards.
+---
 
-###  Condiciones de Entrega
+## 📦 Condiciones de Entrega  
 
-Para la fecha de entrega, se debe presentar:
+Para la fecha de entrega, los equipos deberán presentar:  
 
-* **Repositorio en GitHub:** Código fuente documentado.
-* **Demo del programa:** Presentación en vivo del funcionamiento del scraper.
-* **Presentación técnica:** Explicación del objetivo del proyecto, desarrollo y tecnologías empleadas.
-* **Tablero Kanban:** Enlace a la herramienta de gestión del proyecto (Trello, Jira, etc.).
+✅ **Repositorio en GitHub** con el código fuente documentado.  
+✅ **Demo en vivo** mostrando el proceso de extracción, almacenamiento y visualización de datos.  
+✅ **Presentación técnica**, explicando los objetivos, desarrollo y tecnologías utilizadas.  
+✅ **Tablero Kanban** con la gestión del proyecto (Trello, Jira, etc.).  
 
-### ️ Tecnologías útiles
+---
 
-* Git/GitHub para control de versiones.
-* Docker para un entorno de ejecución consistente.
-* Python (Bibliotecas: BeautifulSoup, Scrapy, Requests, Selenium).
-* ️Bases de datos (MySQL, PostgreSQL, MongoDB, Firebase).
-* Herramientas de visualización (Pandas, Matplotlib, Power BI, Tableau).
-* Gestión del proyecto (Trello, Jira).
+## ⚙️ Tecnologías Recomendadas  
 
-###  🏆 Niveles de Entrega
+- **Control de versiones:** Git / GitHub  
+- **Entorno de ejecución:** Docker  
+- **Lenguaje principal:** Python  
+- **Librerías útiles:** BeautifulSoup, Scrapy, Requests, Selenium  
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB, Firebase   
+- **Gestión del proyecto:** Trello, Jira, Github  
 
-* 🟢 **Nivel Esencial:**
-    * ✅ Un script que accede a la web y extrae información básica de las ofertas de empleo.
-    * ✅ Limpieza y organización básica de los datos.
-    * ✅ Documentación básica del código y README en GitHub.
-* 🟡 **Nivel Medio:**
-    * Almacenamiento de datos en una base de datos estructurada.
-    * Sistema de logs para trazabilidad del scraper.
-    * Implementación de tests unitarios para validar el correcto funcionamiento.
-* 🟠 **Nivel Avanzado:**
-    * Aplicación de Programación Orientada a Objetos (OOP) para estructurar mejor el código.
-    * ⚠️ Manejo robusto de errores para evitar bloqueos y baneo de IP.
-    * Automatización del scraper para actualización periódica de la base de datos.
-* 🔴 **Nivel Experto:**
-    * Dockerización del proyecto.
-    * Implementación de un frontend básico para visualizar los datos extraídos.
-    * ☁️ Despliegue de la aplicación en un servidor accesible públicamente.
-    * Integración con múltiples sitios web de empleo para obtener más datos.
+---
 
-### Evaluación
+## 🏆 Niveles de Entrega  
 
-Mirar los indicadores de las competencias:
+### 🟢 **Nivel Esencial:**  
+✅ Script que accede a un sitio web y extrae información básica de las ofertas de empleo.  
+✅ Limpieza y organización de datos.  
+✅ Documentación del código y un README en GitHub.  
 
-* Gestionar eficientemente proyectos de desarrollo con herramientas de control de versiones
-* Ser capaz de desarrollar un programa en Python
-* Diseñar y gestionar bases de datos de manera eficiente
-* Implementar tests para garantizar la calidad del software
-* Implementar un sistema de webscrapping para la recopilación de datos
-* Desplegar y gestionar aplicaciones en entornos de nube
+### 🟡 **Nivel Medio:**  
+✅ Almacenamiento de los datos en una base de datos estructurada.  
+✅ Implementación de logs para trazabilidad del scraper.  
+✅ Tests unitarios para validar el funcionamiento del código.  
 
-En: https://roadmap-mad-ai-p4.coderf5.es/
+### 🟠 **Nivel Avanzado:**  
+✅ Uso de Programación Orientada a Objetos (OOP) para mejorar la estructura del código.  
+✅ Manejo robusto de errores para evitar bloqueos y baneos de IP.  
+✅ Automatización del scraper para actualizar periódicamente la base de datos.  
 
-###  Actividad Sugerida
+### 🔴 **Nivel Experto:**  
+✅ **Dockerización completa del proyecto** para facilitar despliegue y escalabilidad.  
+✅ **Implementación de un frontend interactivo** para visualizar datos en tiempo real.  
+✅ **Despliegue en un servidor accesible públicamente.**  
+✅ **Integración con múltiples sitios web de empleo** para mejorar la cantidad y calidad de datos recopilados.  
 
-* **Objetivo:**
-    * Familiarizarse con las técnicas de web scraping y el manejo de bases de datos para almacenar y analizar datos de ofertas de empleo.
-* **Instrucciones:**
-    * **Preparación:**
-        * Explorar herramientas de web scraping en Python.
-        * ️ Configurar el entorno de desarrollo (Virtualenv, Docker, etc.).
-    * **Desarrollo del Scraper:**
-        * Crear un script que acceda a los sitios de empleo y extraiga los datos clave.
-        * Limpiar y estructurar la información extraída.
-    * **Almacenamiento en Base de Datos:**
-        * ️ Configurar una base de datos SQL/NoSQL para almacenar la información.
-        * Implementar funciones para insertar y consultar datos.
-    * **Documentación y Presentación:**
-        * Documentar el código y crear un README detallado.
-        * Preparar una presentación para explicar el proceso y los resultados obtenidos.
+---
 
-✅ Con este proyecto, XYZ Corp podrá obtener información valiosa sobre la demanda laboral en tecnología, optimizando sus estrategias de reclutamiento y análisis del mercado.
+## 📊 Evaluación  
+
+Se considerarán los siguientes criterios:  
+
+✅ **Gestión eficiente del proyecto con herramientas de control de versiones.**  
+✅ **Desarrollo de un programa funcional en Python.**  
+✅ **Diseño y gestión efectiva de bases de datos.**  
+✅ **Implementación de pruebas unitarias para garantizar la calidad del código.**  
+✅ **Despliegue del sistema en la nube para asegurar disponibilidad y escalabilidad.**  
+
+Más detalles en: [roadmap-mad-ai-p4.coderf5.es](https://roadmap-mad-ai-p4.coderf5.es/)  
+
+---
+
+## 🛠️ Actividad Sugerida  
+
+### 🎯 **Objetivo:**  
+Familiarizarse con las técnicas de web scraping y el manejo de bases de datos para almacenar y analizar datos de ofertas de empleo.  
+
+### 📌 **Instrucciones:**  
+
+#### **1️⃣ Preparación**  
+✅ Explorar herramientas de web scraping en Python.  
+✅ Configurar el entorno de desarrollo (Virtualenv, Docker, etc.).  
+
+#### **2️⃣ Desarrollo del Scraper**  
+✅ Crear un script que acceda a sitios de empleo y extraiga datos clave.  
+✅ Limpiar y estructurar la información obtenida.  
+
+#### **3️⃣ Almacenamiento en Base de Datos**  
+✅ Configurar una base de datos SQL/NoSQL para almacenar los datos extraídos.  
+✅ Implementar funciones para insertar y consultar información.  
+
+#### **4️⃣ Documentación y Presentación**  
+✅ Documentar el código y crear un README detallado.  
+✅ Preparar una presentación explicando el proceso y resultados obtenidos.  
+
+---
+
+✅ Con este proyecto, **XYZ Corp** podrá obtener información sobre qué se puede hacer con estas tecnologías. 🚀  
