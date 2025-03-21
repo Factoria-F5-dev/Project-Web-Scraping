@@ -47,7 +47,7 @@ Para la fecha de entrega, los equipos deberán presentar:
 ## 🏆 Niveles de Entrega  
 
 ### 🟢 **Nivel Esencial:**  
-✅ Script que accede a un sitio web y extrae información básica de las ofertas de empleo.  
+✅ Script que accede a un sitio web y extrae información.  
 ✅ Limpieza y organización de datos.  
 ✅ Documentación del código y un README en GitHub.  
 
