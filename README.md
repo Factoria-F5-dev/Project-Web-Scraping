@@ -59,7 +59,7 @@ Para la fecha de entrega, los equipos deberán presentar:
 ### 🟠 **Nivel Avanzado:**  
 ✅ Uso de Programación Orientada a Objetos (OOP) para mejorar la estructura del código.  
 ✅ Manejo robusto de errores para evitar bloqueos y baneos de IP.  
-✅ Automatización del scraper para actualizar periódicamente la base de datos.  
+✅ Automatización del scraper para actualizar periódicamente la base de datos con tareas Cron.  
 
 ### 🔴 **Nivel Experto:**  
 ✅ **Dockerización completa del proyecto** para facilitar despliegue y escalabilidad.  
