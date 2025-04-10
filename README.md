@@ -109,3 +109,10 @@ Familiarizarse con las técnicas de web scraping y el manejo de bases de datos p
 ---
 
 ✅ Con este proyecto, **XYZ Corp** podrá obtener información sobre qué se puede hacer con estas tecnologías. 🚀  
+
+---
+
+## ⭐️ Material de referencia / soluciones para el proyecto: 
+
+- Intro a Docker: https://github.com/Factoria-F5-dev/docker
+- Clase de webscrepaer: https://github.com/Factoria-F5-dev/webscraper
